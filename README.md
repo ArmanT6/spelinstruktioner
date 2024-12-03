@@ -17,7 +17,6 @@ Målet i vårt spel är att hitta utgången så snabbt som möjligt och med så 
 **Funktioner**
 Slumpmässigt genererad labyrint för varje spelomgång.
 Fiender som placeras slumpmässigt vid varje steg i labyrinten.
-Tävla mot vänner för att se vem som klarar labyrinten snabbast.
 Kistor som möjligtvis innehåller kartor eller ledtråd som kan hjälpa dig att komma ur labyrinten snabbare.
 
 ![download](https://github.com/user-attachments/assets/db203f4e-1730-4cd8-a6f8-365d6bfa249f)
