@@ -26,7 +26,6 @@ Kistor som möjligtvis innehåller kartor eller ledtråd som kan hjälpa dig att
 2. Fler objekter att hitta i labyrinten är också ett mål vi strävar efter.
 3. Att allmänt göra labyrinten större och svårare att komma ur.
 
-
 Ja, det kan vara bra att lägga till en avslutning i README-filen för att ge den en mer professionell och sammanhängande känsla. En avslutning kan också motivera användaren att ladda ner och spela spelet. Här är ett förslag på en avslutning:
 
 **Avslutande ord**
