@@ -28,7 +28,7 @@ Kistor som möjligtvis innehåller kartor eller ledtråd som kan hjälpa dig att
 
 Ja, det kan vara bra att lägga till en avslutning i README-filen för att ge den en mer professionell och sammanhängande känsla. En avslutning kan också motivera användaren att ladda ner och spela spelet. Här är ett förslag på en avslutning:
 
-Idag fortsättade vi med koden och kommer att fortsätta nästa lektion, det var jag, yaxye och sami
+Idag fortsättade vi med koden och kommer att fortsätta nästa lektion, det var Arman och Yaxye
 
 **Avslutande ord**
 Tack för att du valde att utforska Labyrintspel! Vi hoppas att du kommer att njuta av det spännande äventyret och utmaningen som vår labyrint erbjuder. 
