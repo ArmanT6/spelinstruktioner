@@ -34,5 +34,3 @@ Idag fortsättade vi med koden och kommer att fortsätta nästa lektion, det var
 Tack för att du valde att utforska Labyrintspel! Vi hoppas att du kommer att njuta av det spännande äventyret och utmaningen som vår labyrint erbjuder. 
 
 Lycka till med att komma ur labyrinten!
-
-s
