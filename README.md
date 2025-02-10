@@ -1,4 +1,5 @@
 jag (yaxye la upp alla delar som jag skrev i koden)
+
 **Labyrintspel: Ett Spännande Äventyr**
 Välkommen till Labyrintspel! Utforska en mystisk labyrint där varje val leder till nya äventyr. Kan du hitta vägen ut?
 
